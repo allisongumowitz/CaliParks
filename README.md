@@ -14,4 +14,4 @@ Time spent: 2 hours spent in total
  
 
 ## Video Walkthrough
-![]()
+![](https://github.com/allisongumowitz/CaliParks/blob/main/CaliParks.gif)
